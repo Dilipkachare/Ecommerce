@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: #6EADFF;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+table, th, td {
+    border: 1px solid #aaa;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    display: inline-block;
+    margin-bottom: 10px;
+}
